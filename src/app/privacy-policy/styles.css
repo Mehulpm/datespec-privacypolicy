@@ -1,0 +1,28 @@
+div[data-custom-class="body"] {
+    color: #000 ;
+}
+span[data-custom-class="body_text"] {
+    color: #000;
+}
+
+/* heading_1 */
+span[data-custom-class="heading_1"] {
+  font-size: 1.5em;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  display: block;
+  color: #000;
+}
+ul {
+  list-style-type: disc;
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+}
+
+span[data-custom-class="heading_2"] {
+  font-size: 1.25em;
+  font-weight: 500;
+  margin-bottom: 1rem;
+  display: block;
+  color: #000;
+}

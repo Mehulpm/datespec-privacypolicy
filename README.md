@@ -1,36 +1,36 @@
-# Privacy Policy
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Last updated: [Date]
+## Getting Started
 
-[Your Name/Organization] ("us", "we", or "our") operates [your GitHub repository name] (the "Service").
+First, run the development server:
 
-This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-## Information Collection and Use
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-We do not collect any personally identifiable information while you use our GitHub repository.
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-## Log Data
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-We do not log any data when you access our GitHub repository.
+## Learn More
 
-## Cookies
+To learn more about Next.js, take a look at the following resources:
 
-We do not use cookies or similar tracking technologies on our GitHub repository.
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-## Third-Party Services
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-Our GitHub repository does not utilize any third-party services that may collect information.
+## Deploy on Vercel
 
-## Changes to This Privacy Policy
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
-
-You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
-
-## Contact Us
-
-If you have any questions about this Privacy Policy, please contact us at [your email address].
-
-[Optional: Add any additional information or details relevant to your project and its privacy practices.]
-
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
